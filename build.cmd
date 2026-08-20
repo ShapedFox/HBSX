@@ -1,2 +1,6 @@
+@echo off
+
 make
-C:/Users/Alex/Downloads/xemu-win-release/xemu.exe
+if "%~1" == "XEMU" (
+	"%XEMU_EXEC%"
+)
