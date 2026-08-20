@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65.340179mm"
+   height="16.278566mm"
+   viewBox="0 0 65.340179 16.278566"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.98"
+     inkscape:cx="118.84422"
+     inkscape:cy="52.386935"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.470474,-134.61673)">
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1;font-family:Gotham;-inkscape-font-specification:Gotham;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#7fff7f;fill-opacity:1;stroke:#ff017e;stroke-width:0"
+       x="76.745453"
+       y="150.87273"
+       id="text1"
+       inkscape:export-filename="logo.png"
+       inkscape:export-xdpi="99.516106"
+       inkscape:export-ydpi="99.516106"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'DFPOP1 Std';-inkscape-font-specification:'DFPOP1 Std';letter-spacing:0px;fill:#7fff7f;fill-opacity:1;stroke-width:0"
+         x="76.745453"
+         y="150.87273">HBSX</tspan></text>
+  </g>
+</svg>
