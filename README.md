@@ -6,6 +6,9 @@ A (work in progress) homebrew app store for the original Xbox.
 
 IMPORTANT! This program is VERY EARLY in development and is, as a result, not very functional (You can't actually use it for its intended purpose).
 
+## TODO
+- [ ] Make it actually work
+
 ## How to build
 To build, you will need [nxdk](https://github.com/XboxDev/nxdk).
 
